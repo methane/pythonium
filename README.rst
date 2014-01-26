@@ -6,7 +6,7 @@ Pythonium
 
 **tldr**: Python 3 to Javascript translator written in Python that produces fast portable javascript code.
 
-Read the `tutorial <https://github.com/pythonium/pythonium/tree/master/examples/todo-list#todo-list>`_.
+Read the `tutorial <https://github.com/pythonium/pythonium/tree/master/examples/compliant/todo-list#todo-list>`_.
 
 (8 minutes)
 
